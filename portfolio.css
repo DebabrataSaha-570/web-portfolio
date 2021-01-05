@@ -9,7 +9,7 @@ body{
     color: white;
 }
 .color-text{
-    color: cyan;
+    color: blue;
 }
 h1{
     font-size: 40px;
@@ -34,6 +34,34 @@ h1{
 }
 .second-section{
     height: 500px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     /* margin-bottom: 20px; */
+}
+.third-section{
+    height: 700px;
+    
+}
+.single-part{
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    
+    /* padding-left: 80px; */
+    border: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    float: left;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.every-img{
+    width: 60%;
+    
+}
+.fourth-section img{
+    width: 50%;
+}
+#image-center img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
