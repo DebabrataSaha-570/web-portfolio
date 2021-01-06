@@ -111,6 +111,7 @@ h1{
   .faq-section{
       height: 400px;
       margin-left: 7%;
+      margin-top: 100px;
   }
   .list{
       text-decoration: none;
