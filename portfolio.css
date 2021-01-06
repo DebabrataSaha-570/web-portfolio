@@ -73,8 +73,22 @@ h1{
   }
   .work{
     position: absolute;
-    bottom: 8%;
-    left: 16%;
+    bottom: 12%;
+    left: 37%;
+
+    
+    
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* background-color: #2196F3; */
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    /* padding: 12px 24px; */
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
   }
   .btn{
     position: absolute;
